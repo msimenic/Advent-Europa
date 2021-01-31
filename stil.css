@@ -1,0 +1,52 @@
+
+
+
+body {
+    background-image:url("pozadina/pahulje.jpg");
+    background-position:auto;
+	background-repeat:repeat;
+	
+}
+
+h1{
+	font-family:"Palatino Linotype";
+	text-align:center;
+	font-size: 4em;
+	color:white;
+}
+
+
+a{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 1.5em;
+	position:center;
+	padding-left:12vw;
+	color:white;
+	
+}
+
+p{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 1.4em;
+	text-align:center;
+	color:white;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+h2{
+	font-family:Lucida Calligraphy;
+	font-size:6em;
+	text-align:center;
+	color:red;
+	
+}
+
+img{
+    height: auto;
+	float:center;
+    position: middle;
+    margin-left: 30vw;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
